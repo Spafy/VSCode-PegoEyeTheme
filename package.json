@@ -5,6 +5,12 @@
     "version": "0.2.0",
     "publisher": "pego",
     "icon": "icon.png",
+	"homepage": "https://github.com/Spafy/VSCode-PegoEyeTheme/blob/master/README.md",
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/Spafy/VSCode-PegoEyeTheme.git"
+    },    
+    
     "engines": {
         "vscode": "^1.32.0"
     },

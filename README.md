@@ -9,8 +9,7 @@
 
 
 ### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* [Visual Studio Code's Markdown Support](https://marketplace.visualstudio.com/items?itemName=pego.pego-eye)
+* [Github](https://github.com/Spafy/VSCode-PegoEyeTheme.git)
 
 **Enjoy!**
-2z5svoy35iqyudt4yvlkthup77vabkoyx53uqppmvswy72s3vn6q

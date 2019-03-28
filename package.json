@@ -2,21 +2,20 @@
     "name": "pego-eye",
     "displayName": "PEGO Eye",
     "description": "See Behind the code",
-    "version": "0.2.0",
+    "version": "0.3.2",
     "publisher": "pego",
     "icon": "icon.png",
-	"homepage": "https://github.com/Spafy/VSCode-PegoEyeTheme/blob/master/README.md",
-	"repository": {
-        "type": "git",
-        "url": "https://github.com/Spafy/VSCode-PegoEyeTheme.git"
-    },    
-    
     "engines": {
         "vscode": "^1.32.0"
     },
     "categories": [
         "Themes"
     ],
+    "homepage": "https://github.com/Spafy/VSCode-PegoEyeTheme/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Spafy/VSCode-PegoEyeTheme.git"
+    },
     "contributes": {
         "themes": [
             {

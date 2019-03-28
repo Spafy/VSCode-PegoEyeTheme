@@ -1,0 +1,23 @@
+{
+    "name": "pego-eye",
+    "displayName": "PEGO Eye",
+    "description": "See Behind the code",
+    "version": "0.2.0",
+    "publisher": "pego",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "PEGO Eye",
+                "uiTheme": "vs-dark",
+                "path": "./themes/PEGO Eye-color-theme.json"
+            }
+        ]
+    }
+}

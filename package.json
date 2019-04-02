@@ -14,10 +14,16 @@
     "contributes": {
         "themes": [
             {
-                "label": "PEGO Eye",
+                "label": "PEGO Eye Purple",
                 "uiTheme": "vs-dark",
                 "path": "./themes/PEGO Eye-color-theme.json"
+            },
+            {
+                "label": "PEGO Eye green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/PEGO Eye-color-green-theme"
             }
+
         ]
     }
 }
